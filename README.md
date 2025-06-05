@@ -1,4 +1,4 @@
-# Task1- arrsorting
+# Task1
 This is a simple Python program that:
 
 Accepts a user-defined number of elements,
