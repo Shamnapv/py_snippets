@@ -83,3 +83,128 @@ def menu():
             print("Invalid choice. Please try again!")
 
 menu()
+
+""" output:
+(base) PS C:\Users\shaim\Desktop\pythonlab> python task2b.py
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)1
+Arithmetic operations:
+a + b = 5
+a - b = -1
+a * b = 6
+a / b = 0.6666666666666666
+a // b = 0
+a % b = 2
+a ** b = 8
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)2
+Assignment operations:
+initial c = 10
+c += 2 -> 12
+c -= 2 -> 10
+c *= 2 -> 20
+c /= 2 -> 10.0
+c //= 2 -> 5.0
+c %= 2 -> 1.0
+c **= 2 -> 1.0
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)3
+Comparison operations:
+a == b False
+a != b True
+a > b False
+a < b True
+a >= b False
+a <= b True
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)4
+Logical operations:
+a > 5 and b < 5 True
+a > 5 or b < 5 True
+not(a > 5) : False
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)5
+Bitwise operations:
+a & b = 4
+a | b = 5
+a ^ b = 1
+~a = -5
+a << 1 = 8
+a >> 1 = 2
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)6
+Special operations:
+x is y: False
+x is not y: True
+2 in x: True
+5 not in x: True
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)8
+Invalid choice. Please try again!
+
+Choose an operator type:
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Bitwise Operators
+6. Special Operators
+7. Exit
+enter your choice (1-7)7
+Exiting program. """
