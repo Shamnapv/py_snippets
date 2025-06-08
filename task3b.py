@@ -9,7 +9,7 @@ else:
 
 days_in_month = (next_month - first_day).days
 print("\nMo Tu We Th Fr Sa Su")
-start_weekday = first_day.weekday()  # Monday = 0
+start_weekday = first_day.weekday() 
 day = 1
 print("   " * start_weekday, end="")
 for i in range(start_weekday, start_weekday + days_in_month):
