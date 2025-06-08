@@ -24,3 +24,13 @@ This repository contain a python script that demonstrates the functionality of v
 - Logical Operators
 - Bitwise Operators
 - Special Operators
+
+# Task3a
+
+This simple Python program allows users to **view the calendar of any month and year** they input.
+It uses Python's built-in `calendar` module to display a neatly formatted calendar in the terminal.
+## Features
+
+- Asks user for a **year** and **month (1-12)**
+- Validates the input to ensure the month is within a valid range
+- Displays the monthly calendar for the given inputs
