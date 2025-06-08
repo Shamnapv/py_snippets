@@ -34,3 +34,14 @@ It uses Python's built-in `calendar` module to display a neatly formatted calend
 - Asks user for a **year** and **month (1-12)**
 - Validates the input to ensure the month is within a valid range
 - Displays the monthly calendar for the given inputs
+
+# Task3b
+
+This Python program allows users to view the **calendar for any given month and year**, using only the built-in `datetime` module — without relying on the `calendar` module.
+
+## Features
+
+- Prompts the user to input a year and a month (1–12)
+- Calculates and prints the calendar layout for the specified month
+- Handles month transitions and proper weekday alignment
+- No third-party libraries required — built using only the standard `datetime` module
