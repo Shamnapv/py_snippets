@@ -45,3 +45,20 @@ This Python program allows users to view the **calendar for any given month and 
 - Calculates and prints the calendar layout for the specified month
 - Handles month transitions and proper weekday alignment
 - No third-party libraries required — built using only the standard `datetime` module
+
+# task4
+ This Python script demonstrates basic bitwise operations such as XOR, left shift, and right shift.
+ ## Description
+ The program performs the following:
+
+  1. Initializes two integers x and y.
+
+  2. Displays their values.
+
+  3. Calculates and prints:
+
+   - Bitwise XOR of x and y
+
+   - Left shift of x by 2 positions
+
+   - Right shift of x by 2 positions
