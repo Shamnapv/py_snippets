@@ -1,11 +1,11 @@
 # Task1
 This is a simple Python program that:
 
-Accepts a user-defined number of elements,
+  Accepts a user-defined number of elements,
 
-Stores them in a list (array),
+  Stores them in a list (array),
 
-Displays the array before and after sorting.
+  Displays the array before and after sorting.
 
 # Task2a
 This is a simple python program that demonstrates:
