@@ -57,8 +57,8 @@ This Python program allows users to view the **calendar for any given month and 
 
   3. Calculates and prints:
 
-   - Bitwise XOR of x and y
+     - Bitwise XOR of x and y
 
-   - Left shift of x by 2 positions
+     - Left shift of x by 2 positions
 
-   - Right shift of x by 2 positions
+     - Right shift of x by 2 positions
