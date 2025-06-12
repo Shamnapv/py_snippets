@@ -62,3 +62,28 @@ This Python program allows users to view the **calendar for any given month and 
      - Left shift of x by 2 positions
 
      - Right shift of x by 2 positions
+
+# task5
+  This is a console-based ATM simulation program written in Python. It demonstrates various control flow constructs such as:
+
+    -if, elif, else
+
+    -for loop
+
+    -while loop
+
+    -break, continue
+
+    -exit() function
+
+ The application simulates an ATM machine's functionality and allows the user to:
+
+    -Authenticate using a 4-digit ATM PIN
+
+    -Check their account balance
+
+    -Withdraw and deposit money
+
+    -Change their ATM PIN
+
+    -Exit the system
