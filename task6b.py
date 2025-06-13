@@ -1,0 +1,15 @@
+t1=(1,2,3,4,5,2)
+l2=[6,7,8,9,10]
+print("length of the tuple is:",len(t1))
+print("maximum element of the tuple:",max(t1))
+print("minimum element of the tuple:",min(t1))
+print("sum of elements is:",sum(t1))
+t2=tuple(l2)
+print("the list is converted to tuple",t2)
+print("count of 2 is:",t1.count(2))
+print("index of 4 is:",t1.index(4))
+print("first three elemwnt of tuple is:",t1[0:3])
+print("repetition of tuple:",t1*2)
+print("membership:",1 in t1)
+a,b,c,d,e=t2
+print("tuple unpacking :",a,b,c,d,e)
