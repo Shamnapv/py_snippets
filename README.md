@@ -87,3 +87,33 @@ This Python program allows users to view the **calendar for any given month and 
     -Change their ATM PIN
 
     -Exit the system
+
+# task6a
+
+This Python program demonstrates various list operations such as:
+
+  -Adding, inserting, extending, and removing elements
+
+  -Counting and finding index
+
+  -Sorting and reversing the list
+
+  -Slicing and copying
+
+  -Using functions like sum(), min(), and max()
+
+# task6b
+
+This Python program demonstrates various operations on tuples, including:
+
+  -Tuple creation
+
+  -Basic functions like len(), max(), min(), and sum()
+
+  -Tuple slicing, repetition, and membership testing
+
+  -Conversion from list to tuple
+
+  -Counting and indexing values
+
+  -Tuple unpacking
