@@ -118,11 +118,13 @@ This Python program demonstrates various operations on tuples, including:
 
   -Tuple unpacking
 
-# task6c :Python Dictionary Operations - Student Record Example
+# task6c
+## Python Dictionary Operations - Student Record Example
 
   This Python program demonstrates various operations on a dictionary using a sample `student` record. It includes creation, access, update, deletion, copying, and other useful dictionary methods in Python.
 
-# task6d: Python Set Operations - Demo Program
+# task6d
+## Python Set Operations - Demo Program
 
   This Python script demonstrates common operations on sets using a sample set of integers. It showcases how to add, remove, and manipulate sets using built-in Python methods.
 
