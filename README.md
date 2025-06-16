@@ -117,3 +117,19 @@ This Python program demonstrates various operations on tuples, including:
   -Counting and indexing values
 
   -Tuple unpacking
+
+# task6c :Python Dictionary Operations - Student Record Example
+
+  This Python program demonstrates various operations on a dictionary using a sample `student` record. It includes creation, access, update, deletion, copying, and other useful dictionary methods in Python.
+
+# task6d: Python Set Operations - Demo Program
+
+  This Python script demonstrates common operations on sets using a sample set of integers. It showcases how to add, remove, and manipulate sets using built-in Python methods.
+
+# task7a
+  This Python program demonstrates how to sort a **list of tuples** based on the **second item** (typically a numeric value like marks or scores) using a **lambda function** as the sorting key.
+
+# task7b
+  ##  Python Simple Calculator using Functions and Loop
+
+  This Python program implements a basic calculator that can perform arithmetic operations like addition, subtraction, multiplication, division, and modulus using user-defined functions and a loop.
