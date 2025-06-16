@@ -25,3 +25,21 @@ print("After update:",s1)
 print("After issubset():",s1.issubset(s2))
 print("After issuperset():",s1.issuperset(s2))
 print("After clear():",s1.clear())
+
+"""output:(base) PS C:\Users\shaim\Desktop\pythonlab> python task6d.py
+original set: {1, 2, 3, 4, 5}
+After adding None
+After removing usind remove(): {1, 3, 4, 5, 6}
+After removing using discard(): {1, 4, 5, 6}
+After removing using pop(): {4, 5, 6}
+After intersection: {6}
+After union: {4, 5, 6, 7, 8, 9}
+After copy(): {4, 5, 6}
+After difference_update: {4, 5}
+before intersection_update(): {4, 5, 6}
+After intersection_update(): {4, 5}
+After isdisjoint(): True
+After update: {4, 5, 6, 7, 8, 9}
+After issubset(): False
+After issuperset(): True
+After clear(): None"""
