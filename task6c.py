@@ -22,3 +22,20 @@ keys=['fruits','vegetable']
 dictionary=dict.fromkeys(keys,'not provided')
 print(dictionary)
 print("After clear():",student.clear())
+
+"""output: (base) PS C:\Users\shaim\Desktop\pythonlab> python task6c.py
+original dictionary: {'name': 'shamna', 'roll_no': 63, 'department': 'it', 'marks': 88}
+Name : shamna
+roll_no using get(): 63
+after adding college {'name': 'shamna', 'roll_no': 63, 'department': 'it', 'marks': 88, 'college': 'Gec palakkad'}
+After update mark {'name': 'shamna', 'roll_no': 63, 'department': 'it', 'marks': 90, 'college': 'Gec palakkad'}
+After pop(roll_no) {'name': 'shamna', 'department': 'it', 'marks': 90, 'college': 'Gec palakkad'}
+After adding email and phone_no using update {'name': 'shamna', 'department': 'it', 'marks': 90, 'college': 'Gec palakkad', 'email': 'shamna@gmail.com', 'phone_no': '9078563412'}
+keys: dict_keys(['name', 'department', 'marks', 'college', 'email', 'phone_no'])
+values: dict_values(['shamna', 'it', 90, 'Gec palakkad', 'shamna@gmail.com', '9078563412'])
+items: dict_items([('name', 'shamna'), ('department', 'it'), ('marks', 90), ('college', 'Gec palakkad'), ('email', 'shamna@gmail.com'), ('phone_no', '9078563412')])  
+After setdefault {'name': 'shamna', 'department': 'it', 'marks': 90, 'college': 'Gec palakkad', 'email': 'shamna@gmail.com', 'phone_no': '9078563412', 'gender': 'Female'}
+copy of student: {'name': 'shamna', 'department': 'it', 'marks': 90, 'college': 'Gec palakkad', 'email': 'shamna@gmail.com', 'phone_no': '9078563412', 'gender': 'Female'}
+removed item using popitem() ('gender', 'Female')
+{'fruits': 'not provided', 'vegetable': 'not provided'}
+After clear(): None"""
