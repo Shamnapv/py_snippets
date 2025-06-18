@@ -135,3 +135,28 @@ This Python program demonstrates various operations on tuples, including:
   ##  Python Simple Calculator using Functions and Loop
 
   This Python program implements a basic calculator that can perform arithmetic operations like addition, subtraction, multiplication, division, and modulus using user-defined functions and a loop.
+
+# task8
+  ## Money & Item Operations in Python
+
+  This Python program demonstrates **real-life object-oriented programming (OOP)** concepts by modeling money transactions and item purchases using **operator overloading**.
+
+  ##  Description
+
+  The project contains two main classes:
+
+  ### 1. `Money` Class
+  Represents a person's money or wallet balance.
+
+  #### Features:
+  - `+` Add two money amounts
+  - `-` Subtract one amount from another
+  - `*` Multiply a money amount by a number (e.g., double the money)
+  - Custom string representation using `__str__`
+
+  ### 2. `Item` Class
+  Represents a purchasable item with a fixed price.
+
+  #### Features:
+  - `*` Multiply the price of the item with a quantity to return the total cost (as a `Money` object)
+  - Custom string representation using `__str__`
