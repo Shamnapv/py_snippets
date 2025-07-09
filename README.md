@@ -160,3 +160,9 @@ This Python program demonstrates various operations on tuples, including:
   #### Features:
   - `*` Multiply the price of the item with a quantity to return the total cost (as a `Money` object)
   - Custom string representation using `__str__`
+# task9
+  ## Fruit Count Visualization Using Matplotlib
+    This Python project uses `matplotlib` to visually represent the count of different fruits using three types of charts:
+      - Line Plot
+      - Pie Chart
+      - Bar Chart
