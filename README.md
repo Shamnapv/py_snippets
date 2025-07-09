@@ -166,3 +166,12 @@ This Python program demonstrates various operations on tuples, including:
       - Line Plot
       - Pie Chart
       - Bar Chart
+# task10
+  ## Streamlit Plots Using Matplotlib
+    This Streamlit web app demonstrates how to create a **2x2 subplot layout** using Matplotlib to visualize insights from the `tip.csv` dataset.
+
+  The app includes:
+    - Histogram of total bills
+    - Boxplot of tips
+    - Pie chart of gender distribution
+    - Bar chart of average total bill by day
