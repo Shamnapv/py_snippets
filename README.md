@@ -175,3 +175,33 @@ This Python program demonstrates various operations on tuples, including:
     - Boxplot of tips
     - Pie chart of gender distribution
     - Bar chart of average total bill by day
+
+# task11
+  ## This Python script performs a series of text preprocessing tasks on raw input data. It uses the `re` (regular expressions) module to identify and clean specific patterns in the text, such as dates, email addresses, excessive spaces, emojis, and more.
+### 📌 Features
+
+The script performs the following cleaning operations **in sequence**:
+
+1. **Extract and remove numeric dates**  
+   Matches and removes dates in the format:  
+   - `dd/mm/yyyy`  
+   - `yyyy-mm-dd`  
+   - `dd-mm-yyyy`
+
+2. **Remove textual (written) date formats**  
+   Example:  
+   - `July 4, 2025`  
+   - `Dec 25, 2024`  
+   Supports both full and short month names.
+
+3. **Remove email addresses**  
+   Specifically targets emails ending in `.com`.
+
+4. **Remove emojis and non-ASCII characters**  
+   Removes any Unicode characters outside the standard ASCII range.
+
+5. **Simplify excessive punctuation**  
+   Converts repeated punctuation (e.g., `!!!` or `...`) into a single character (e.g., `!`, `.`).
+
+6. **Normalize whitespace**  
+   Replaces multiple spaces or newlines with a single space.
