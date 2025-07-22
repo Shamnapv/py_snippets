@@ -207,4 +207,4 @@ The script performs the following cleaning operations **in sequence**:
    Replaces multiple spaces or newlines with a single space.
 
 # task12
-  ## This Python program demonstrates basic **Natural Language Processing (NLP)** tasks using the **spaCy** library. It covers key components such as tokenization, custom token rules, part-of-speech tagging, stopword filtering, and lemmatization.
+   This Python program demonstrates basic **Natural Language Processing (NLP)** tasks using the **spaCy** library. It covers key components such as tokenization, custom token rules, part-of-speech tagging, stopword filtering, and lemmatization.
